@@ -2,10 +2,10 @@
 # JS - Micro exercises(1)
 
 ## Training:
-- Write a program that writes a text to the screen that says "Hola mundo".
-- Write a program that writes to the screen the result of adding 3 + 5.
-- Write a program that asks for the user's name with a prompt or using an input and writes a text that says "Hola username"
-- Write a program that asks for one number, asks for another number, and writes the result of adding these two numbers.
+-  [x] Write a program that writes a text to the screen that says "Hola mundo".
+-  [x] Write a program that writes to the screen the result of adding 3 + 5.
+-  [x] Write a program that asks for the user's name with a prompt or using an input and writes a text that says "Hola username"
+-  [x] Write a program that asks for one number, asks for another number, and writes the result of adding these two numbers.
 
 ## Requirement:
 - Use javascript
